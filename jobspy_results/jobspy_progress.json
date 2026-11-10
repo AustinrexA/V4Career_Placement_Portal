@@ -1,0 +1,30 @@
+{
+  "signature": {
+    "roles": [
+      "Software Engineer",
+      "Software Developer",
+      "Graduate Engineer Trainee",
+      "Graduate Trainee",
+      "Software Developer Intern",
+      "Python Developer",
+      "Java Developer",
+      "C Developer",
+      "Full Stack Developer",
+      "Frontend Developer",
+      "Backend Developer",
+      "Web Developer",
+      "UI Developer",
+      "React Developer"
+    ],
+    "locations": [
+      "Chennai"
+    ],
+    "sites": [
+      "indeed",
+      "naukri",
+      "linkedin",
+      "glassdoor"
+    ]
+  },
+  "next_index": 0
+}
